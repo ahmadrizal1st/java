@@ -46,33 +46,33 @@ flowchart TD
     *   Setting Up an Integrated Development Environment (IntelliJ IDEA Recommended)
     *   Creating, Compiling, and Executing a "Hello World" Application
 
-*   **Module 2: Basic Syntax & Program Structure**
+*   [**Module 2: Basic Syntax & Program Structure**](https://github.com/ahmadrizal1st/java-syntax/#readme)
     *   Anatomy of a Java Program: `class` Declaration and the `main` Method
     *   Code Documentation: Comments (`//`, `/* */`) and Javadoc (`/** */`)
     *   Language Syntax: Keywords and Identifiers (Naming Conventions)
     *   Utilizing Command Line Arguments
 
-*   **Module 3: Variables and Data Types**
+*   [**Module 3: Variables and Data Types**](https://github.com/ahmadrizal1st/java-variable/#readme)
     *   Primitive Data Types: `byte`, `short`, `int`, `long`, `float`, `double`, `char`, `boolean`
     *   Reference Data Types: Introduction to `String`, `Array`, and Custom `Objects`
     *   Variable Declaration, Initialization, and Scope
     *   Defining Constants with the `final` Keyword
     *   Type Conversion: Implicit (Widening) and Explicit (Narrowing) Casting
 
-*   **Module 4: Operators and Expressions**
+*   [**Module 4: Operators and Expressions**](https://github.com/ahmadrizal1st/java-operators/#readme)
     *   Arithmetic Operators: `+`, `-`, `*`, `/`, `%`, `++`, `--`
     *   Relational/Comparison Operators: `==`, `!=`, `>`, `<`, `>=`, `<=`
     *   Logical Operators: `&&`, `||`, `!` (Including Short-Circuiting)
     *   Assignment Operators: `=`, `+=`, `-=`, `*=`, `/=`
     *   Conditional (Ternary) Operator: `? :`
 
-*   **Module 5: Control Flow Statements**
+*   [**Module 5: Control Flow Statements**](https://github.com/ahmadrizal1st/java-flow/#readme)
     *   Conditional Statements: `if`, `if-else`, and `if-else-if` Ladder
     *   Multi-way Branching: The `switch` Statement (Traditional and Expression Style)
     *   Iteration Statements: `for` Loop (Standard and Enhanced for-each), `while`, `do-while`
     *   Flow Control: `break`, `continue`, and `return` Statements
 
-*   **Module 6: Arrays and Strings**
+*   [**Module 6: Arrays and Strings**](https://github.com/ahmadrizal1st/java-array/#readme)
     *   Arrays: Declaration, Instantiation, and Initialization (Single and Multi-Dimensional)
     *   Common Array Operations: Iteration, Copying, and Manipulation
     *   The `String` Class: Immutability Concept and Essential Methods
@@ -82,20 +82,20 @@ flowchart TD
 
 ## Phase 2: Object-Oriented Programming (OOP) Core (Weeks 5-8)
 
-*   **Module 7: Introduction to Classes and Objects**
+*   [**Module 7: Introduction to Classes and Objects**](https://github.com/ahmadrizal1st/java-classes/#readme)
     *   Principles of Object-Oriented Programming (OOP)
     *   Classes as Blueprints and Objects as Instances
     *   Defining Class Members: Fields (Attributes) and Methods (Behaviors)
     *   Object Construction: Default and Parameterized Constructors
     *   The `this` Keyword Reference
 
-*   **Module 8: Core OOP Principles**
+*   [**Module 8: Core OOP Principles**](https://github.com/ahmadrizal1st/java-oop/#readme)
     *   **Encapsulation:** Data Hiding with `private` Access and Accessor/Mutator Methods
     *   **Inheritance:** Establishing IS-A Relationships with `extends`, Using `super`
     *   **Polymorphism:** Method Overloading (Compile-Time) vs. Overriding (Runtime)
     *   **Abstraction:** Defining Contracts with Abstract Classes and Interfaces
 
-*   **Module 9: Advanced Class Design**
+*   [**Module 9: Advanced Class Design**](https://github.com/ahmadrizal1st/java-advclasess/#readme)
     *   Class Modifiers: `static` Members and Blocks, `final` Classes and Methods
     *   Code Organization: Creating and Using `packages`
     *   Access Control: `public`, `protected`, Package-Private, and `private` Modifiers
@@ -105,14 +105,14 @@ flowchart TD
 
 ## Phase 3: Data Handling & Standard APIs (Weeks 9-12)
 
-*   **Module 10: Exception Handling**
+*   [**Module 10: Exception Handling**](https://github.com/ahmadrizal1st/java-exception/#readme)
     *   Error Types: Distinguishing Between `Error` and `Exception`
     *   Exception Categories: Checked vs. Unchecked Exceptions
     *   Handling Exceptions: `try-catch-finally` Blocks
     *   Exception Propagation: `throw` and `throws` Keywords
     *   Resource Management: Try-with-Resources Statement
 
-*   **Module 11: Collections Framework**
+*   [**Module 11: Collections Framework**](https://github.com/ahmadrizal1st/java-collections/#readme)
     *   Framework Architecture: `Collection` and `Map` Hierarchies
     *   **Lists:** `ArrayList` and `LinkedList` Implementations
     *   **Sets:** `HashSet`, `LinkedHashSet`, and `TreeSet` Implementations
@@ -121,13 +121,13 @@ flowchart TD
     *   Iteration Techniques: `Iterator` and Enhanced for-each Loop
     *   Utility Classes: `Collections` and `Arrays`
 
-*   **Module 12: Generics**
+*   [**Module 12: Generics**](https://github.com/ahmadrizal1st/java-generics/#readme)
     *   Introduction to Generics: Type Safety and Eliminating Casts
     *   Implementing Generic Classes and Methods
     *   Using Bounded Type Parameters (`<T extends Number>`)
     *   Wildcard Types: `?`, `? extends T`, `? super T`
 
-*   **Module 13: Essential Java APIs**
+*   [**Module 13: Essential Java APIs**](https://github.com/ahmadrizal1st/java-apis/#readme)
     *   Root Class: `Object` Methods (`equals()`, `hashCode()`, `toString()`)
     *   Modern Date/Time API: `LocalDate`, `LocalTime`, `LocalDateTime`, `Duration`, `Period`
     *   Utility Classes: `Scanner` for Input, `Random` for Number Generation
@@ -136,18 +136,18 @@ flowchart TD
 
 ## Phase 4: Advanced Topics & Modern Java Features (Weeks 13-16)
 
-*   **Module 14: Functional Programming Features (Java 8+)**
+*   [**Module 14: Functional Programming Features (Java 8+)**](https://github.com/ahmadrizal1st/java-8+/#readme)
     *   Lambda Expressions: Syntax and Target Typing
     *   Built-in Functional Interfaces: `Predicate`, `Function`, `Consumer`, `Supplier`
     *   Method and Constructor References
     *   Stream API: Intermediate Operations (`filter`, `map`, `sorted`), Terminal Operations (`collect`, `forEach`, `reduce`)
 
-*   **Module 15: Input/Output (I/O) Operations**
+*   [**Module 15: Input/Output (I/O) Operations**](https://github.com/ahmadrizal1st/java-io/#readme)
     *   I/O Streams: Byte Streams (`InputStream`, `OutputStream`) and Character Streams (`Reader`, `Writer`)
     *   Buffered I/O: `BufferedReader` and `BufferedWriter`
     *   Object Serialization and Deserialization
 
-*   **Module 16: Concurrency Fundamentals**
+*   [**Module 16: Concurrency Fundamentals**](https://github.com/ahmadrizal1st/java-concurrency/#readme)
     *   Processes vs. Threads
     *   Thread Creation: Extending `Thread` vs. Implementing `Runnable`
     *   Thread Lifecycle and States
@@ -157,12 +157,12 @@ flowchart TD
 
 ## Phase 5: Professional Development & Specialization
 
-*   **Module 17: Essential Development Tools**
+*   [**Module 17: Essential Development Tools**](https://github.com/ahmadrizal1st/java-dev/#readme)
     *   Build Automation: **Maven** or **Gradle** for Dependency Management and Project Building
     *   Version Control: **Git** Fundamentals (Repository Management, Basic Workflow)
     *   Testing: Writing Unit Tests with **JUnit 5**
 
-*   **Module 18: Capstone Project & Career Specialization**
+*   [**Module 18: Capstone Project & Career Specialization**](https://github.com/ahmadrizal1st/java-capstone/#readme)
     *   **Develop a Console-Based CRUD Application** (e.g., Library Management, Inventory System)
     *   **Select a Specialization Path:**
         *   **Enterprise Backend Development:** Spring Boot Framework, Data Persistence with JPA, RESTful Web Services
