@@ -39,7 +39,7 @@ flowchart TD
 
 ## Phase 1: Core Fundamentals & Syntax (Weeks 1-4)
 
-*   **Module 1: Introduction & Development Environment**
+*   [**Module 1: Introduction & Development Environment**](https://github.com/ahmadrizal1st/java-intro/#readme)
     *   Java Overview: History, Philosophy, and Key Characteristics (WORA, OOP, Robustness)
     *   Understanding the Java Ecosystem: JVM, JRE, and JDK
     *   Installing the JDK and Configuring Environment Variables (`JAVA_HOME`, `PATH`)
